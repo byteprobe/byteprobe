@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @byteprobe
 - 👀 I’m interested in AI/ML/DL
 - 🌱 I’m currently learning ML/DL
-- 💞️ I’m looking to collaborate on DL/NLP/Cognitive Computing/Bioinformatics/Computational Biology
+- 💞️ I’m looking to collaborate on DL/CV/NLP/Cognitive Computing/Bioinformatics/Computational Biology/Research
 - 📫 How to reach me ...
 
 <!---
