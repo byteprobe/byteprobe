@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @byteprobe
-- 👀 I’m interested in Bioinformatics | Computational Biology | Research
+- 👀 I’m interested in Bioinformatics | Computational Biology | Astrophysics | Research
 - 🌱 I’m currently learning ML | DL
 - 💞️ I’m looking to collaborate on DL | CV | NLP
 - 📫 How to reach me ...
