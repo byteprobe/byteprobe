@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @byteprobe
-- 👀 I’m interested in Artificial Intelligence | Biology | Physics
+- 👋 hi, i’m @byteprobe
+- 👀 i’m interested in artificial intelligence | biology | physics
+- 🤖 the synergy between systematic data transformations and matrix computations.
 
 <!---
 byteprobe/byteprobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
