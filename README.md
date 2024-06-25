@@ -1,5 +1,4 @@
-- 👋 hi, i’m @byteprobe
-- 👀 i’m interested in artificial intelligence | biology | physics
+i’m interested in artificial intelligence | biology | physics
 
 <!---
 byteprobe/byteprobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
